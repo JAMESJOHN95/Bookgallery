@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap');
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: aqua;
+    height: 45px;
+    background: rgb(238, 174, 202);
+    background: linear-gradient(69deg, rgba(238, 174, 202, 1) 0%, rgba(39, 239, 20, 1) 100%);
+position: relative;
+}
+
+a {
+    margin-top: 30px;
+    color: black;
+
+}
+
+.input {
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    margin-left: 1232px;
+    margin-top: -22px;
+    ;
+}
+
+.c {
+    height: 450px;
+    width: 32%;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+
+.c4 {
+    margin-top: 12px;
+
+}
+
+.c5 {
+    margin-top: 12px;
+}
+
+.c6 {
+    margin-top: 12px;
+}
+
+img {
+    width: 60%;
+    height: 200px;
+    align-items: center;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+
+img:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+h3 {
+    margin-left: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+p {
+    margin-left: 40px;
+    line-height: 15px;
+    width: 60%;
+    white-space: 10px;
+    margin-TOP: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background: rgb(238, 174, 202);
+    background: rgb(238, 174, 202);
+    background: linear-gradient(69deg, rgba(238, 174, 202, 1) 0%, rgba(99, 247, 85, 0.7960434173669468) 100%);
+}
+
+.b1 {
+    margin-left: 40px;
+    background-color: rgb(240, 243, 54);
+    border: none;
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.b2 {
+    background-color: rgb(138, 138, 138);
+    border: none;
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.b3 {
+
+    border-radius: 10px;
+    
+    height: 30px;
+    position: absolute;
+    left: 1435px;
+    top: -8px;
+    
+}
+
+.l1{
+    position: absolute;
+    top:35px;
+}
+.input{
+    position: absolute;
+    left: -11px;
+    top: 14px;
+}
